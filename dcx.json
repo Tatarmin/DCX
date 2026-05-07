@@ -1,0 +1,15 @@
+json{
+  "name": "DollarCoin",
+  "symbol": "DCX",
+  "description": "Dollar Coin",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Presidential_dollar_coin_reverse.png/960px-Presidential_dollar_coin_reverse.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Presidential_dollar_coin_reverse.png/960px-Presidential_dollar_coin_reverse.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
